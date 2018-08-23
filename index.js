@@ -16,5 +16,6 @@ function divide(a, b) {
   return number;
 }
 funtion inc(n) {
-  number = 
+  number = n + 1;
+  return number
 }
