@@ -15,11 +15,11 @@ function divide(a, b) {
   number = a / b;
   return number;
 }
-function inc(a) {
-  a++
+function inc(n) {
+  n++
   return number;
 }
-function dec(a) {
-  a--
+function dec(n) {
+  n--
   return number
 }
